@@ -15,7 +15,7 @@ public class clsLogin {
         try{
             
             return obclsLogin.getStEmail().equals("adoptionpetsystem@gmail.com") &&
-                    obclsLogin.getStPassword().equals("12345");
+                    obclsLogin.getStPassword().equals("123456");
         
         }catch(Exception ex){
             throw ex; 
